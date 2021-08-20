@@ -1,0 +1,18 @@
+{
+
+"data": [
+    {
+      "Data":"2021-01-07T08:00:00.000Z" ,
+      "Colaborador": "'João da Silva'",
+      "Area": "'Galpão Primário'",
+      "'Qnt Horas'": 2
+    },
+    {
+     " Data": "2021-01-07T08:00:00.000Z",
+      "Colaborador": "'Maria Santos'",
+      "Area": "'Galpão Secundário'",
+      "'Qnt Horas'": 8
+    }
+    
+  ]
+}
